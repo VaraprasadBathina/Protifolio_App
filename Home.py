@@ -37,7 +37,7 @@ with col5:
 
 
 
-col3,col4 = st.columns(2)
+col3,empty_col,col4 = st.columns([1,1,1])
 
 
 df = pd.read_csv("data.csv", sep=';')
@@ -45,7 +45,12 @@ df = pd.read_csv("data.csv", sep=';')
 with col3:
      for index,row in df[0::2].iterrows():
           st.header(row["title"])
+          st.write(row["description"])
+          st.image("images/"+row["image"])
+          st.write(f"[source code]({row['url']})")
         
 with col4:
      for index,row in df[1::2].iterrows():
           st.header(row['title'])
+          st.write(row["description"])
+          st.image("images/"+row["image"])
