@@ -5,10 +5,10 @@ import pandas as pd
 st.set_page_config(layout="wide")
 col1, col2= st.columns([1,2])
 content1 = """
-I'm a Python Developer and Data Engineer with expertise in backend development, API architecture, and scalable data solutions. 
+I'm a Python Developer and Data Engineer with expertise in Backend Development, API architecture, and scalable data solutions. 
 I specialize in Python, SQL, Django, FastAPI, and RESTful & GraphQL APIs, building high-performance applications that enhance efficiency and innovation.
 
-With hands-on experience in big data processing, real-time streaming (Apache Kafka, PySpark, Databricks), and cloud platforms (Azure, AWS, GCP), I design and optimize ETL pipelines and cloud-native architectures. 
+With hands-on experience in Big Data processing, real-time streaming (Apache Kafka, PySpark, Databricks), and cloud platforms (Azure, AWS, GCP), I design and optimize ETL pipelines and cloud-native architectures. 
 As a Microsoft-certified Azure Data Engineer with a Master’s in Data Engineering from UNT, I’m passionate about transforming complex data into actionable insights that drive business success.
 
 """
