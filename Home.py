@@ -5,14 +5,11 @@ import pandas as pd
 st.set_page_config(layout="wide")
 col1, col2= st.columns([1,2])
 content1 = """
-I am a highly skilled Python Developer and Data Engineer with expertise in backend development, API design, and scalable data engineering solutions. 
-I specialize in Python, SQL, Django, and FastAPI for building high-performance backend systems, and I have extensive experience in developing RESTful and GraphQL APIs for seamless data exchange and service integration.
+I'm a Python Developer and Data Engineer with expertise in backend development, API architecture, and scalable data solutions. 
+I specialize in Python, SQL, Django, FastAPI, and RESTful & GraphQL APIs, building high-performance applications that enhance efficiency and innovation.
 
-My technical expertise extends to big data processing and real-time streaming with Apache Kafka, PySpark, and Databricks, enabling efficient ETL pipelines and large-scale data transformations. 
-I have hands-on experience deploying cloud-based architectures across Azure, AWS, and GCP, ensuring scalability, reliability, and cost efficiency.
-
-As a Microsoft-certified Azure Data Engineer, I specialize in optimizing ETL workflows, real-time data pipelines, and cloud-native solutions that enhance business intelligence and operational efficiency. 
-With a Master’s in Data Engineering from the University of North Texas, I am committed to leveraging data-driven strategies, advanced analytics, and robust infrastructure to drive impactful decision-making and business growth.
+With hands-on experience in big data processing, real-time streaming (Apache Kafka, PySpark, Databricks), and cloud platforms (Azure, AWS, GCP), I design and optimize ETL pipelines and cloud-native architectures. 
+As a Microsoft-certified Azure Data Engineer with a Master’s in Data Engineering from UNT, I’m passionate about transforming complex data into actionable insights that drive business success.
 
 """
 
