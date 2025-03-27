@@ -1,3 +1,5 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/VaraprasadBathina/TODO_WebApp;1.png
+ETL Pipeline;A ETL pipline to extract data fromm Spotify API and transform it using AWS.;https://github.com/VaraprasadBathina/spotify-trends-end-to-end-dataengineering-pipeline;2.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/VaraprasadBathina/Protifolio_App;3.png
+Travels App;A Travels Website Completely built using Django;https://github.com/VaraprasadBathina/Travels;4.png
